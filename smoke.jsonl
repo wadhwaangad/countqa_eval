@@ -1,0 +1,5 @@
+{"question": "How many tiles are on the wall with the shower?", "answer": 18, "focused": false, "categories": ["Outdoor, Vehicles & Structural"], "qid": "test-00000-of-00013.parquet:0:0", "raw": "15", "pred": 15}
+{"question": "How many yellow flowers are there", "answer": 6, "focused": false, "categories": ["Furniture & Home Decor"], "qid": "test-00000-of-00013.parquet:1:0", "raw": "6", "pred": 6}
+{"question": "How many bookmarks are there?", "answer": 9, "focused": true, "categories": ["Office & Media"], "qid": "test-00000-of-00013.parquet:2:0", "raw": "9", "pred": 9}
+{"question": "How many pipes are there?", "answer": 10, "focused": true, "categories": ["Tools & Hardware", "Outdoor, Vehicles & Structural"], "qid": "test-00000-of-00013.parquet:3:0", "raw": "7", "pred": 7}
+{"question": "Ignore the tubs in the back. How many tubs are there in the foreground?", "answer": 20, "focused": false, "categories": ["Storage & Organization"], "qid": "test-00000-of-00013.parquet:4:0", "raw": "16", "pred": 16}

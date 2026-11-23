@@ -1,0 +1,57 @@
+{
+  "overall": {
+    "n": 5,
+    "EM": 40.0,
+    "EM_ci95": 42.94,
+    "RA@5%": 40.0,
+    "RA@10%": 40.0,
+    "MAE": 2.0,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "focused": {
+    "n": 2,
+    "EM": 50.0,
+    "EM_ci95": 69.3,
+    "RA@5%": 50.0,
+    "RA@10%": 50.0,
+    "MAE": 1.5,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "cluttered": {
+    "n": 3,
+    "EM": 33.33,
+    "EM_ci95": 53.34,
+    "RA@5%": 33.33,
+    "RA@10%": 33.33,
+    "MAE": 2.33,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "by_count": {
+    "1-5": {},
+    "6-10": {
+      "n": 3,
+      "EM": 66.67,
+      "EM_ci95": 53.34,
+      "RA@5%": 66.67,
+      "RA@10%": 66.67,
+      "MAE": 1.0,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "11-20": {
+      "n": 2,
+      "EM": 0.0,
+      "EM_ci95": 0.0,
+      "RA@5%": 0.0,
+      "RA@10%": 0.0,
+      "MAE": 3.5,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "21-50": {},
+    "51-inf": {}
+  }
+}

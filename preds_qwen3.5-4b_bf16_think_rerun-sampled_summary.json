@@ -1,0 +1,92 @@
+{
+  "overall": {
+    "n": 567,
+    "EM": 20.63,
+    "EM_ci95": 3.33,
+    "RA@5%": 23.1,
+    "RA@10%": 28.92,
+    "MAE": 2.13,
+    "unparsed": 277,
+    "truncated": 277,
+    "strict_format_rate": 51.15
+  },
+  "focused": {
+    "n": 253,
+    "EM": 20.16,
+    "EM_ci95": 4.94,
+    "RA@5%": 23.72,
+    "RA@10%": 31.23,
+    "MAE": 2.11,
+    "unparsed": 120,
+    "truncated": 120,
+    "strict_format_rate": 52.57
+  },
+  "cluttered": {
+    "n": 314,
+    "EM": 21.02,
+    "EM_ci95": 4.51,
+    "RA@5%": 22.61,
+    "RA@10%": 27.07,
+    "MAE": 2.15,
+    "unparsed": 157,
+    "truncated": 157,
+    "strict_format_rate": 50.0
+  },
+  "by_count": {
+    "1-5": {
+      "n": 96,
+      "EM": 29.17,
+      "EM_ci95": 9.09,
+      "RA@5%": 29.17,
+      "RA@10%": 29.17,
+      "MAE": 0.91,
+      "unparsed": 51,
+      "truncated": 51,
+      "strict_format_rate": 46.88
+    },
+    "6-10": {
+      "n": 190,
+      "EM": 23.16,
+      "EM_ci95": 6.0,
+      "RA@5%": 23.16,
+      "RA@10%": 24.74,
+      "MAE": 1.52,
+      "unparsed": 90,
+      "truncated": 90,
+      "strict_format_rate": 52.63
+    },
+    "11-20": {
+      "n": 195,
+      "EM": 16.41,
+      "EM_ci95": 5.2,
+      "RA@5%": 17.44,
+      "RA@10%": 29.23,
+      "MAE": 2.36,
+      "unparsed": 93,
+      "truncated": 93,
+      "strict_format_rate": 52.31
+    },
+    "21-50": {
+      "n": 80,
+      "EM": 15.0,
+      "EM_ci95": 7.82,
+      "RA@5%": 28.75,
+      "RA@10%": 37.5,
+      "MAE": 3.3,
+      "unparsed": 40,
+      "truncated": 40,
+      "strict_format_rate": 50.0
+    },
+    "51-inf": {
+      "n": 6,
+      "EM": 16.67,
+      "EM_ci95": 29.82,
+      "RA@5%": 33.33,
+      "RA@10%": 33.33,
+      "MAE": 17.0,
+      "unparsed": 3,
+      "truncated": 3,
+      "strict_format_rate": 50.0
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "overall": {
+    "n": 1528,
+    "EM": 43.26,
+    "EM_ci95": 2.48,
+    "RA@5%": 45.16,
+    "RA@10%": 52.29,
+    "MAE": 4.22,
+    "unparsed": 1,
+    "truncated": 1,
+    "strict_format_rate": 0.0
+  },
+  "focused": {
+    "n": 677,
+    "EM": 46.97,
+    "EM_ci95": 3.76,
+    "RA@5%": 48.89,
+    "RA@10%": 57.31,
+    "MAE": 3.32,
+    "unparsed": 0,
+    "truncated": 0,
+    "strict_format_rate": 0.0
+  },
+  "cluttered": {
+    "n": 851,
+    "EM": 40.31,
+    "EM_ci95": 3.3,
+    "RA@5%": 42.19,
+    "RA@10%": 48.3,
+    "MAE": 4.93,
+    "unparsed": 1,
+    "truncated": 1,
+    "strict_format_rate": 0.0
+  },
+  "by_count": {
+    "1-5": {
+      "n": 322,
+      "EM": 52.48,
+      "EM_ci95": 5.45,
+      "RA@5%": 52.48,
+      "RA@10%": 52.48,
+      "MAE": 2.47,
+      "unparsed": 0,
+      "truncated": 0,
+      "strict_format_rate": 0.0
+    },
+    "6-10": {
+      "n": 557,
+      "EM": 44.17,
+      "EM_ci95": 4.12,
+      "RA@5%": 44.17,
+      "RA@10%": 47.58,
+      "MAE": 2.63,
+      "unparsed": 0,
+      "truncated": 0,
+      "strict_format_rate": 0.0
+    },
+    "11-20": {
+      "n": 482,
+      "EM": 40.04,
+      "EM_ci95": 4.37,
+      "RA@5%": 40.87,
+      "RA@10%": 55.39,
+      "MAE": 3.83,
+      "unparsed": 0,
+      "truncated": 0,
+      "strict_format_rate": 0.0
+    },
+    "21-50": {
+      "n": 157,
+      "EM": 33.12,
+      "EM_ci95": 7.36,
+      "RA@5%": 49.04,
+      "RA@10%": 60.51,
+      "MAE": 10.54,
+      "unparsed": 1,
+      "truncated": 1,
+      "strict_format_rate": 0.0
+    },
+    "51-inf": {
+      "n": 9,
+      "EM": 0.0,
+      "EM_ci95": 0.0,
+      "RA@5%": 0.0,
+      "RA@10%": 22.22,
+      "MAE": 76.33,
+      "unparsed": 0,
+      "truncated": 0,
+      "strict_format_rate": 0.0
+    }
+  }
+}

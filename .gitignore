@@ -1,0 +1,12 @@
+# Large binaries / third-party redistributables (GitHub rejects files >100MB)
+*.zip
+llama/
+models/
+*.gguf
+
+# Dataset (download separately)
+data/
+
+# Python cache
+__pycache__/
+*.pyc

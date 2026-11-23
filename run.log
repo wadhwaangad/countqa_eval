@@ -1,0 +1,149 @@
+1528 questions, 0 already done
+[1/1528] 0.1min  q='How many tiles are on the wall with the shower?' gt=18 raw='15'  running=0.0
+[2/1528] 0.2min  q='How many yellow flowers are there' gt=6 raw='6'  running=50.0
+[3/1528] 0.4min  q='How many bookmarks are there?' gt=9 raw='9'  running=66.67
+[25/1528] 2.9min  q='How many chairs, tables, and heaters are there?' gt=13 raw='6'  running=32.0
+[50/1528] 5.1min  q='How many raspberries and blueberries are there?' gt=12 raw='10'  running=40.0
+[75/1528] 7.2min  q='How many empty parking spaces are there?' gt=8 raw='3'  running=41.33
+[100/1528] 9.4min  q='How many pentagons and circles are there?' gt=14 raw='13'  running=36.0
+[125/1528] 11.6min  q='How many normal forks are there?' gt=4 raw='2'  running=36.0
+[150/1528] 13.8min  q='How many windows are there?' gt=7 raw='7'  running=38.0
+[175/1528] 16.0min  q='How many bowls are there?' gt=9 raw='7'  running=38.86
+[200/1528] 17.9min  q='How many spoons, forks, and dinner knives are there?' gt=11 raw='6'  running=37.0
+[225/1528] 19.8min  q='How many cards are there in total?' gt=9 raw='10'  running=38.22
+[250/1528] 21.9min  q='What is the number of cars?' gt=6 raw='6'  running=39.2
+[275/1528] 24.3min  q='How many shell poufs are there?' gt=6 raw='5'  running=38.18
+[300/1528] 26.4min  q='How many chairs are there?' gt=7 raw='7'  running=38.33
+[325/1528] 28.8min  q='How many leaves are there?' gt=18 raw='17'  running=38.15
+[350/1528] 31.2min  q='How many books are there?' gt=9 raw='12'  running=37.43
+[375/1528] 33.7min  q='How many cinnamon sticks are there?' gt=2 raw='2'  running=37.6
+[400/1528] 35.9min  q='How many green pieces are there?' gt=2 raw='2'  running=37.75
+[425/1528] 38.4min  q='How many rods are there?' gt=12 raw='11'  running=37.65
+[450/1528] 57.2min  q='How many products are there?' gt=15 raw='13'  running=36.67
+[475/1528] 59.2min  q='How many clips are there?' gt=17 raw='16'  running=35.79
+[500/1528] 61.2min  q='How many water bottles are there?' gt=1 raw='1'  running=35.8
+[525/1528] 63.0min  q='How many bandaids are there?' gt=7 raw='6'  running=35.62
+[550/1528] 65.1min  q='How many baskets are there?' gt=6 raw='5'  running=36.18
+[575/1528] 67.1min  q='How many yellow squares are there?' gt=10 raw='10'  running=36.52
+[600/1528] 69.2min  q='How many roads are there?' gt=15 raw='17'  running=36.17
+[625/1528] 71.3min  q='How many blackberries are there?' gt=8 raw='5'  running=36.16
+[650/1528] 73.3min  q='How many cupboard handles are there?' gt=7 raw='7'  running=36.77
+[675/1528] 75.4min  q='How many benches are there?' gt=4 raw='4'  running=36.44
+[700/1528] 77.3min  q='How many hex nuts are there?' gt=8 raw='9'  running=35.86
+[725/1528] 79.4min  q='How many stones are there?' gt=4 raw='4'  running=36.41
+[750/1528] 81.5min  q='How many windows are there?' gt=7 raw='7'  running=36.53
+[775/1528] 83.4min  q='How many speed breakers are there?' gt=6 raw='6'  running=36.77
+[800/1528] 85.4min  q='How many ducks are there?' gt=8 raw='9'  running=36.25
+[825/1528] 87.6min  q='How many pieces are not black?' gt=9 raw='11'  running=35.76
+[850/1528] 89.8min  q='How many hex nuts are there?' gt=5 raw='5'  running=35.88
+[875/1528] 92.0min  q='How many coasters are there?' gt=5 raw='5'  running=35.66
+[900/1528] 94.4min  q='How many blue items are there?' gt=16 raw='14'  running=35.11
+[925/1528] 96.8min  q='How many cups are there?' gt=3 raw='3'  running=34.81
+[950/1528] 99.0min  q='How many raspberries are there?' gt=15 raw='15'  running=34.84
+[975/1528] 101.3min  q='How many climbing stones are there?' gt=10 raw='11'  running=34.77
+[1000/1528] 103.7min  q='How many boxes are there?' gt=5 raw='4'  running=34.6
+[1025/1528] 105.8min  q='How many coasters are there?' gt=16 raw='13'  running=34.63
+[1050/1528] 108.1min  q='How many adhesive rolls are there?' gt=10 raw='10'  running=34.57
+[1075/1528] 110.4min  q='How many pillows are there?' gt=8 raw='8'  running=34.6
+[1100/1528] 112.3min  q='How many packets are there?' gt=5 raw='5'  running=34.64
+[1125/1528] 114.3min  q='How many balls are not yellow?' gt=50 raw='50'  running=34.67
+[1150/1528] 116.2min  q='How many cups are there?' gt=6 raw='1'  running=34.43
+[1175/1528] 118.2min  q='How many objects are chairs?' gt=16 raw='13'  running=34.13
+[1200/1528] 120.5min  q='How many brown and white pieces are there?' gt=15 raw='10'  running=33.92
+[1225/1528] 122.8min  q='How many brushes are there?' gt=8 raw='7'  running=33.63
+[1250/1528] 125.2min  q='What is the number of chairs?' gt=8 raw='10'  running=33.84
+[1275/1528] 127.6min  q='How many holes are there?' gt=13 raw='12'  running=34.04
+[1300/1528] 130.0min  q='How many black hexagons are there?' gt=9 raw='5'  running=34.08
+[1325/1528] 132.4min  q='How many black two shaped hooks are there?' gt=4 raw='2'  running=34.04
+[1350/1528] 134.8min  q='How many white pieces are there?' gt=6 raw='5'  running=33.78
+[1375/1528] 137.2min  q='How many chairs are there?' gt=8 raw='10'  running=33.6
+[1400/1528] 139.2min  q='How many lids are there?' gt=2 raw='2'  running=33.86
+[1425/1528] 141.3min  q='How many blackberries and raspberries are there?' gt=23 raw='14'  running=33.89
+[1450/1528] 143.4min  q='How many cups are there?' gt=9 raw='10'  running=33.79
+[1475/1528] 145.9min  q='What is the total number of peppers?' gt=4 raw='4'  running=33.76
+[1500/1528] 148.2min  q='How many round things are on the road?' gt=12 raw='11'  running=33.8
+[1525/1528] 150.5min  q='How many seats and tables are there combined?' gt=10 raw='4'  running=33.44
+{
+  "overall": {
+    "n": 1528,
+    "EM": 33.44,
+    "EM_ci95": 2.37,
+    "RA@5%": 35.01,
+    "RA@10%": 46.99,
+    "MAE": 2.52,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "focused": {
+    "n": 677,
+    "EM": 35.89,
+    "EM_ci95": 3.61,
+    "RA@5%": 37.81,
+    "RA@10%": 55.24,
+    "MAE": 2.66,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "cluttered": {
+    "n": 851,
+    "EM": 31.49,
+    "EM_ci95": 3.12,
+    "RA@5%": 32.78,
+    "RA@10%": 40.42,
+    "MAE": 2.41,
+    "unparsed": 0,
+    "strict_format_rate": 100.0
+  },
+  "by_count": {
+    "1-5": {
+      "n": 322,
+      "EM": 59.01,
+      "EM_ci95": 5.37,
+      "RA@5%": 59.01,
+      "RA@10%": 59.01,
+      "MAE": 0.65,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "6-10": {
+      "n": 557,
+      "EM": 34.11,
+      "EM_ci95": 3.94,
+      "RA@5%": 34.11,
+      "RA@10%": 37.52,
+      "MAE": 1.4,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "11-20": {
+      "n": 482,
+      "EM": 23.03,
+      "EM_ci95": 3.76,
+      "RA@5%": 24.27,
+      "RA@10%": 52.49,
+      "MAE": 2.22,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "21-50": {
+      "n": 157,
+      "EM": 12.1,
+      "EM_ci95": 5.1,
+      "RA@5%": 23.57,
+      "RA@10%": 41.4,
+      "MAE": 7.06,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    },
+    "51-inf": {
+      "n": 9,
+      "EM": 0.0,
+      "EM_ci95": 0.0,
+      "RA@5%": 0.0,
+      "RA@10%": 0.0,
+      "MAE": 75.78,
+      "unparsed": 0,
+      "strict_format_rate": 100.0
+    }
+  }
+}

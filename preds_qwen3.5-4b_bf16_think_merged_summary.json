@@ -1,0 +1,95 @@
+{
+  "replaced": 567,
+  "merged": {
+    "overall": {
+      "n": 1528,
+      "EM": 45.68,
+      "EM_ci95": 2.5,
+      "RA@5%": 47.71,
+      "RA@10%": 55.3,
+      "MAE": 1.43,
+      "unparsed": 277,
+      "truncated": 277,
+      "strict_format_rate": 81.87
+    },
+    "focused": {
+      "n": 677,
+      "EM": 43.87,
+      "EM_ci95": 3.74,
+      "RA@5%": 46.23,
+      "RA@10%": 55.1,
+      "MAE": 1.46,
+      "unparsed": 120,
+      "truncated": 120,
+      "strict_format_rate": 82.27
+    },
+    "cluttered": {
+      "n": 851,
+      "EM": 47.12,
+      "EM_ci95": 3.35,
+      "RA@5%": 48.88,
+      "RA@10%": 55.46,
+      "MAE": 1.4,
+      "unparsed": 157,
+      "truncated": 157,
+      "strict_format_rate": 81.55
+    },
+    "by_count": {
+      "1-5": {
+        "n": 322,
+        "EM": 63.35,
+        "EM_ci95": 5.26,
+        "RA@5%": 63.35,
+        "RA@10%": 63.35,
+        "MAE": 0.42,
+        "unparsed": 51,
+        "truncated": 51,
+        "strict_format_rate": 84.16
+      },
+      "6-10": {
+        "n": 557,
+        "EM": 49.91,
+        "EM_ci95": 4.15,
+        "RA@5%": 49.91,
+        "RA@10%": 52.06,
+        "MAE": 0.88,
+        "unparsed": 90,
+        "truncated": 90,
+        "strict_format_rate": 83.84
+      },
+      "11-20": {
+        "n": 482,
+        "EM": 36.1,
+        "EM_ci95": 4.29,
+        "RA@5%": 36.93,
+        "RA@10%": 54.98,
+        "MAE": 1.61,
+        "unparsed": 93,
+        "truncated": 93,
+        "strict_format_rate": 80.71
+      },
+      "21-50": {
+        "n": 157,
+        "EM": 24.84,
+        "EM_ci95": 6.76,
+        "RA@5%": 41.4,
+        "RA@10%": 52.23,
+        "MAE": 3.11,
+        "unparsed": 40,
+        "truncated": 40,
+        "strict_format_rate": 74.52
+      },
+      "51-inf": {
+        "n": 9,
+        "EM": 22.22,
+        "EM_ci95": 27.16,
+        "RA@5%": 33.33,
+        "RA@10%": 33.33,
+        "MAE": 44.5,
+        "unparsed": 3,
+        "truncated": 3,
+        "strict_format_rate": 66.67
+      }
+    }
+  }
+}
